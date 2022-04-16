@@ -2,6 +2,6 @@
 SAF is looking for your feedback
 | Feedback Type |
 |---------------|
-| [Website](https://link-url-here.org)    |
-| [Product](https://link-url-here.org)       |
-| [Other](https://link-url-here.org)         |
+| [Product](https://github.com/TheSAFComapny/feedback/discussions/2)    |
+| [Website](https://github.com/TheSAFComapny/feedback/discussions/1)       |
+| [Other](https://github.com/TheSAFComapny/feedback/discussions/3)         |
